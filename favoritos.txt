@@ -20,3 +20,5 @@ https://www.schoolofnet.com/curso-novidades-do-php71/
 https://www.schoolofnet.com/curso-iniciando-com-zf3/
 https://www.youtube.com/watch?v=zBH-UXj8y2w&list=PL-gbes0UxLJMMQVuRvgmp-yBNxQIbpBL8
 http://comoganhabitcoin.com/
+https://www.caelum.com.br/download/caelum-html-css-javascript-php.pdf
+https://www.caelum.com.br/apostila-html-css-javascript/bootstrap-e-formularios-html5/#exerccios-formulrios
