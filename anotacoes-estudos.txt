@@ -1,0 +1,172 @@
+sass --watch node_modules/bootstrap/scss:node_modules/bootstrap/compiler
+fontawesome.io
+
+boostrap4 aula 1 
+Como instalar o Bootstrap 4 com NPM e Sass - Criando um site com Bootstrap 4 - Aula 2
+Criação e personalização do Navbar - Criando um site com Bootstrap 4 - Aula 03
+Carousel com imagens, textos, controles e indicadores - Criando um site com Bootstrap 4 - Aula 04
+Uso do Scrollspy para criar navegação ativa - Criando um site com Bootstrap 4 - Aula 05
+Como criar Cards e esquecer de vez o Panel e o Thumbnail - Criando um site com Bootstrap 4 - Aula 06
+Como usar tudo que o Modal te oferece - Criando um site com Bootstrap 4 - Aula 07
+Como criar Nav Pills, Jumbotron Fluid e Embed - Criando um site com Bootstrap 4 - Aula 08
+Formulário responsivo, Font Awesome e Popover - Criando um site com Bootstrap 4 - Aula 09
+------------------------------------------------------------------------------
+
+Curso de PHP 7 - Aula 07 Variáveis dinâmicas
+Curso de PHP 7 - Aula 08 - Tipos de dados
+Curso de PHP 7 - Aula 09 - Aspas simples, Aspas duplas e Concatenação
+Curso de PHP 7 - Aula 10 - Escopo de variavéis
+Curso de PHP 7 - Aula 11 - Constantes
+Curso de PHP 7 - Aula 12 - Arrays #1
+Curso de PHP 7 - Aula 13 - Arrays #2
+Curso de PHP 7 - Aula 14 - Arrays #3
+Curso de PHP 7 - Aula 15 - Funções de Arrays #1
+Curso de PHP 7 - Aula 16 - Funções de Arrays #2
+Curso de PHP 7 - Aula 17 - Funções de Arrays #3
+Curso de PHP 7 - Aula 18 - Funções de Arrays #4
+Curso de PHP 7 - Aula 19 - Condicionais(if/Else/Elseif)
+Curso de PHP 7 - Aula 20 - Condicionais(Switch/ Case)
+Curso de PHP 7 - Aula 21 - Operadores Aritmeticos
+Curso de PHP 7 - Aula 22 - Operadores de Incremento e Decremento
+Curso de PHP 7 - Aula 23 - Operadores de Atribuição
+Curso de PHP 7 - Aula 24 - Operadores de Comparação
+Curso de PHP 7 - Aula 25 - Operadores Lógicos
+Curso de PHP 7 - Aula 26 - While & Do While
+Curso de PHP 7 - Aula 27 - For & Foreach
+Curso de PHP 7 - Aula 28 - Funções para Strings #1
+Curso de PHP 7 - Aula 29 - Funções para Strings #2
+Curso de PHP 7 - Aula 30 - Funções para Números
+Curso de PHP 7 - Aula 31 - Como criar funções
+Curso de PHP 7 - Aula 32 - Superglobais
+Curso de PHP 7 - Aula 33 - Formulários ($_POST)
+Curso de PHP 7 - Aula 34 - Formulários ($_GET)
+Curso de PHP 7 - Aula 35 - Validações (Validate Filters)
+Curso de PHP 7 - Aula 36 - Sanitização (Sanitize Filters)
+Curso de PHP 7 - Aula 37 - Upload de Arquivos
+Curso de PHP 7 - Aula 38 - Upload Múltiplo
+Curso de PHP 7 - Aula 39 - Sessões
+Curso de PHP 7 - Aula 40 - Sistema de Login (PHP Procedural) #1
+Curso de PHP 7 - Aula 41 - Sistema de Login (PHP Procedural) #2
+Curso de PHP 7 - Aula 42 - Criptografia/Codificação
+Curso de PHP 7 - Aula 43 - Senhas seguras com password hash
+Curso de PHP 7 - Aula 44 - SQL Injection
+Curso de PHP 7 - Aula 45 - Include / Include_Once / Require_Once / Require_Once
+Curso de PHP 7 - Aula 46 - CRUD com PHP, MYSQL e Materialize CSS #1
+Curso de PHP 7 - Aula 47 - CRUD com PHP Procedural, MYSQL e Materialize CSS #2
+Curso de PHP 7 - Aula 48 - CRUD com PHP Procedural, MYSQL e Materialize CSS #3
+Curso de PHP 7 - Aula 49 - CRUD com PHP Procedural, MYSQL e Materialize CSS #4
+Curso de PHP 7 - Aula 50 - CRUD com PHP Procedural, MYSQL e Materialize CSS #5
+Curso de PHP 7 - Aula 51 - XSS (Cross Site Scripting)
+Curso de PHP 7 - Aula 52 - $_COOKIE
+Curso de PHP 7 - Aula 53 - Trabalhando com Datas
+Curso de PHP 7 - Aula 54 - Manipulação de Arquivos
+------------------------------------------------------------------
+
+Curso CSS3 - Aula 03 - Folha de Estilo
+Curso CSS3 - Aula 04 - Organizando Div's
+Curso CSS3 - Aula 05 - Organizando Div's
+Curso CSS3 - Aula 06 - Organizando Div's
+Curso CSS3 - Aula 07 - Organizando Div's
+Curso CSS3 - Aula 08 - Organizando Div's
+Curso CSS3 - Aula 09 - Organizando Div's
+Curso CSS3 - Aula 10 - Organizando Topo
+Curso CSS3 - Aula 11 - Finalizando Layout
+Curso CSS3 - Aula 12 - Layout Fluido
+Curso CSS3 - Aula 13 - Layout Fluido
+Curso CSS3 - Aula 14 - Layout Fluido
+Curso CSS3 - Aula 15 - Layout Fluido
+Curso CSS3 - Aula 16 - Botão CSS
+Curso CSS3 - Aula 17 - Botão CSS
+Curso CSS3 - Aula 18 - Botão CSS
+Curso CSS3 - Aula 19 - Menu CSS
+Curso CSS3 - Aula 20 - Menu CSS
+Curso CSS3 - Aula 21 - Sombra
+Curso CSS3 - Aula 22 - Gradiente
+Curso CSS3 - Aula 23 - Gradiente
+Curso CSS3 - Aula 24 - Background
+Curso CSS3 - Aula 25 - Background
+Curso CSS3 - Aula 26 - Finalizando Menu
+Curso CSS3 - Aula 27 - Background
+Curso CSS3 - Aula 28 - Background
+Curso CSS3 - Aula 29 - Criando Layout
+Curso CSS3 - Aula 30 - Criando Layout
+Curso CSS3 - Aula 31 - Criando Layout
+Curso CSS3 - Aula 32 - Criando Layout
+Curso CSS3 - Aula 33 - Criando Layout
+Curso CSS3 - Aula 34 - Montando Layout
+Curso CSS3 - Aula 35 - Montando Layout
+Curso CSS3 - Aula 36 - Montando Layout
+Curso CSS3 - Aula 37 - Montando Layout
+Curso CSS3 - Aula 38 - Montando Layout
+Curso CSS3 - Aula 39 - Montando Layout
+Curso CSS3 - Aula 40 - Montando Layout
+Curso CSS3 - Aula 41 - Montando Layout
+Curso CSS3 - Aula 42 - Montando Layout
+Curso de CSS3 Avançado - Aula 01 - Menu Dropdown - 43
+Curso de CSS3 Avançado - Aula 02 - Menu Dropdown - 44
+Curso de CSS3 Avançado - Aula 03 - Menu Dropdown - 45
+Curso de CSS3 Avançado - Aula 04 - Menu Dropdown - 46
+Curso de CSS3 Avançado - Site em CSS3 e Html5 - 47
+Curso de CSS3 Avançado - Layout Avançado - 48
+Q-Cursos Network - Cursos e Treinamentos - 49
+Apresentação Q Cursos Network - Cursos Profissionalizantes EAD - 50
+------------------------------------------------------------------
+git & github Falando sobre sistemas de controle de versão
+git & github História do Git
+git & github Sistema centralizado vs descentralizado
+git & github Configuração inicial
+git & github Os 3 estágios
+git & github Realizando primeiro commit
+git & github Verificando log
+git & github Ignorando arquivos
+git & github Brincando com fluxo de commits
+git & github Voltando versões
+git & github Falando sobre branches
+git & github Criando primeiro branch
+git & github Merge e Rebase
+git & github Falando sobre o github
+git & github Criando chave para o github
+git & github Criando um repositório
+git & github Primeiro push
+git & github Dando push em outro branch
+git & github Fazendo clone
+git & github Push e Pull com novo branch
+git & github Dicas gerais
+git & github Trabalhando com tags
+git & github Versionamento semântico
+git & github Resolvendo conflitos
+git & github Git bare
+git & github Git hook
+
+
+-------------------------------------------------------------
+php -S localhost:8080 -t public
+composer dump-autoload
+
+dentro da pasta data
+php load_data.php
+
+zend - Introdução
+zend - Instalando o framework
+zend - Estrutura de pastas
+zend - Criando nosso primeiro módulo
+zend - Criando Controller
+zend - Listando dados na view
+zend - Configurando banco de dados
+zend - Criando Model e TableGateway
+zend - Configurando servicos DataTableGateway
+zend - Configurando Dependências no controller
+
+--------------------------------------------------------------
+
+php 7.1 
+Introdução
+Montando ambiente com Docker
+Nullable types
+
+-------------------------------------------------------------
+ecommerce com wordpress
+https://www.youtube.com/watch?v=F3DGmmwvVTQ
+
+sass-lang.com/
+
